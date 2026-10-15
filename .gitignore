@@ -5,3 +5,7 @@ __pycache__/
 *.csv
 *.duckdb
 init.sqlinit.sql
+target/
+dbt_packages/
+logs/
+*.duckdb
